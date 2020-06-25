@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<classpath>
+	<classpathentry kind="src" path="Mindustry/tools/src/"/>
+	<classpathentry kind="src" path="Mindustry/tests/src/test/java/"/>
+	<classpathentry kind="src" path="Mindustry/ios/src/"/>
+	<classpathentry kind="src" path="Mindustry/core/src/"/>
+	<classpathentry kind="src" path="Mindustry/android/src/"/>
+	<classpathentry kind="src" path="Mindustry/server/src/"/>
+	<classpathentry kind="src" path="Mindustry/annotations/src/main/java/"/>
+	<classpathentry kind="src" path="Mindustry/desktop/src/"/>
+	<classpathentry kind="lib" path="/home/mottaking/OR_PLUGIN_CMDLINE_JAVA/source/Mindustry/Mindustry/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+</classpath>
